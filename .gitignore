@@ -155,5 +155,4 @@ tags
 
 # End of https://www.gitignore.io/api/node,vim,git,macos,linux,sublimetext
 /node_modules
-/images/*
 node_modules/.package-lock.json
